@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+/dist/
+/build/
+*.egg-info/
+*.spec
+
+# VS Code editor directory
+.vscode/
